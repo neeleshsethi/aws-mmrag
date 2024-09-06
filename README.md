@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# aws-mmrag
+=======
+>>>>>>> 2d19321 (Creating folder structure)
 
 # Welcome to your CDK Python project!
 
@@ -56,3 +62,7 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+<<<<<<< HEAD
+=======
+>>>>>>> 8cbc62d (Initial Commit)
+>>>>>>> 2d19321 (Creating folder structure)
